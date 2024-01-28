@@ -1,18 +1,24 @@
-import logo from "../assets/logo.png"
-import CartWidget from "./CartWidget"
+import { NavLink } from "react-router-dom";
 
 const NavBar = () => {
   return (
-    <nav>
-        <img src={logo} alt="Home Deco" />
-        <div>
-            <button>Living</button>
-            <button>Comedor</button>
-            <button>Dormitorio</button>
-        </div>
-        <CartWidget />
-    </nav>
+    <ul className="nav">
+      <li className="nav-item">
+        <NavLink className="nav-link fs-5" style={{color: "#F0F4F2 "}} to={"/"}>Productos</NavLink>
+      </li>
+      <li className="nav-item">
+        <NavLink className="nav-link fs-5" style={{color: "#F0F4F2 "}} to={"/category/living"}>Living</NavLink>
+      </li>
+      <li className="nav-item">
+        <NavLink className="nav-link fs-5" style={{color: "#F0F4F2 "}} to={"/category/comedor"}>Comedor</NavLink>
+      </li>
+      <li className="nav-item">
+        <NavLink className="nav-link fs-5" style={{color: "#F0F4F2 "}} to={"/category/dormitorio"}>Dormitorio</NavLink>
+      </li>
+      <li className="nav-item">
+        <NavLink className="nav-link fs-5" style={{color: "#F0F4F2 "}} to={"/category/exterior"}>Exterior</NavLink>
+      </li>
+    </ul>
   )
 }
-
-export default NavBar
+export default NavBar;
