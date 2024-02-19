@@ -9,8 +9,7 @@ const ItemList = ({products}) => {
         ))}
       </div>
     </div>
-  )
+  );
 }
-
 
 export default ItemList;

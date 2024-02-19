@@ -6,6 +6,6 @@ const LogoOp1 = () => {
     <Link to={"/"}>
       <img src={Logo} alt="Logo de Home Deco"/>
     </Link>
-  )
+  );
 }
 export default LogoOp1;

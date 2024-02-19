@@ -1,6 +1,6 @@
 [
   {
-    "id": "01",
+    "idx": "01",
     "title": "Silla Ana", 
     "description": "Estructura maciza de madera paraíso. Asiento tapizado en tela jackard gris",
     "image": "https://i.ibb.co/Nt5CrZ9/01.jpg",
@@ -9,7 +9,7 @@
     "stock": 20
   },
   {
-    "id": "02",
+    "idx": "02",
     "title": "Silla Ana", 
     "description": "Estructura maciza de madera paraíso. Asiento tapizado en tela jackard Lino Arena",
     "image": "https://i.ibb.co/rxmssdH/02.jpg",
@@ -18,7 +18,7 @@
     "stock": 20
     },
     {
-    "id": "03",
+    "idx": "03",
     "title": "Silla Ana", 
     "description": "Estructura maciza de madera paraíso. Asiento tapizado en tela jackard Gamo",
     "image": "https://i.ibb.co/Nt5CrZ9/01.jpg",
@@ -27,7 +27,7 @@
     "stock": 20
   },
   {
-    "id": "04",
+    "idx": "04",
     "title": "Silla Camila", 
     "description": "Estructura maciza de madera paraíso. Asiento tapizado en tela jackard Gamo ",
     "image": "https://i.ibb.co/z8kphW4/04.jpg",
@@ -36,7 +36,7 @@
     "stock": 15
   },
   {
-    "id": "05",
+    "idx": "05",
     "title": "Silla Camila", 
     "description": "Estructura maciza de madera paraíso. Asiento tapizado en tela jackard Lino Arena ",
     "image": "https://i.ibb.co/C2xZNx2/05.jpg",
@@ -45,7 +45,7 @@
     "stock": 15
   },
   {
-    "id": "06",
+    "idx": "06",
     "title": "Silla Frida", 
     "description": "Estructura maciza de madera paraíso. Asiento tapizado en tela jackard Gamo ",
     "image": "https://i.ibb.co/02pYVVb/06.jpg",
@@ -54,7 +54,7 @@
     "stock": 12
   },
   {
-    "id": "07",
+    "idx": "07",
     "title": "Silla Naoto", 
     "description": "Estructura maciza de madera paraíso. Asiento tapizado en tela jackard Lino Arena ",
     "image": "https://i.ibb.co/kXyxFHT/07.jpg",
@@ -63,7 +63,7 @@
     "stock": 12
   },
   {
-    "id": "08",
+    "idx": "08",
     "title": "Silla Tulip", 
     "description": "La silla nórdica Tulip tiene un estilo único en el que destaca la madera y los colores lisos. De estilo minimalista y resistente que encaja a la perfección en cualquier decoración. Construida con patas de madera lustrada y asiento tapizado.",
     "image": "https://i.ibb.co/6rwW0Cc/08.jpg",
@@ -72,7 +72,7 @@
     "stock": 25
   },
   {
-    "id": "09",
+    "idx": "09",
     "title": "Silla Eames", 
     "description": "La Silla Eames es un clásico del mobiliario del siglo XX. Construida con patas de madera lustrada e hilos de acero que forman una autentica base Eiffel. Esta combinación de gran calidad tiene un efecto sobrio grandioso y aporta a la silla una exclusiva óptica de modernidad, ya sea como silla de hogar, en una zona de recepción o en la habitación de un hotel.",
     "image": "https://i.ibb.co/GM4FXNx/09.jpg",
@@ -81,7 +81,7 @@
     "stock": 25
   },
   {
-    "id": "10",
+    "idx": "10",
     "title": "Mesa Estilo Nórdico 85×120", 
     "description": "Mesa estilo nórdico. Estructura de madera maciza laqueada. Tapa de melamina con canto redondeado de 2mm. Blanco/Blanco",
     "image": "https://i.ibb.co/2qxVkWC/10.jpg",
@@ -90,7 +90,7 @@
     "stock": 10
   },
   {
-    "id": "11",
+    "idx": "11",
     "title": "Mesa Estilo Nórdico 85×120", 
     "description": "Mesa estilo nórdico. Estructura de madera maciza laqueada. Tapa de melamina con canto redondeado de 2mm. Roble/Blanco",
     "image": "https://i.ibb.co/rtdg17j/11.jpg",
@@ -99,7 +99,7 @@
     "stock": 10
   },
   {
-    "id": "12",
+    "idx": "12",
     "title": "Mesa Estilo Nórdico 85×150", 
     "description": "Mesa estilo nórdico. Estructura de madera maciza laqueada. Tapa de melamina con canto redondeado de 2mm. Blanco/Blanco",
     "image": "https://i.ibb.co/WpH0PDw/12.jpg",
@@ -108,7 +108,7 @@
     "stock": 10
   },
   {
-    "id": "13",
+    "idx": "13",
     "title": "Mesa Estilo Nórdico 85×150", 
     "description": "Mesa estilo nórdico. Estructura de madera maciza laqueada. Tapa de melamina con canto redondeado de 2mm. Roble/Blanco",
     "image": "https://i.ibb.co/KVYSRkH/13.jpg",
@@ -117,8 +117,8 @@
     "stock": 10
   },
   {
-    "id": "14",
-    "title": "Mesa Extensible Contemporánea 90×130+50 cm", 
+    "idx": "14",
+    "title": "Mesa Ext. Contemporánea", 
     "description": "Mesa cerrada: 1.30 m. x 0.90 m. Mesa abierta: 1.80 m. x 0.90 m.",
     "image": "https://i.ibb.co/KrsgJxR/14.jpg",
     "category": "comedor",
@@ -126,8 +126,8 @@
     "stock": 10
   },
   {
-    "id": "15",
-    "title": "Mesa Extensible Vintage 90×160+45 cm", 
+    "idx": "15",
+    "title": "Mesa Extensible Vintage", 
     "description": "Mesa cerrada: 1.60 m. x 0.90 m. Mesa abierta: 2.05 m. x 0.90 m.",
     "image": "https://i.ibb.co/5cBP1MT/15.jpg",
     "category": "comedor",
@@ -135,8 +135,8 @@
     "stock": 10
   },
   {
-    "id": "16",
-    "title": "Mesa Fija Contemporánea 80×120", 
+    "idx": "16",
+    "title": "Mesa Contemporánea 80×120", 
     "description": "Mesa estilo contemporáneo. Estructura maciza de madera paraíso.",
     "image": "https://i.ibb.co/W2gv88V/16.jpg",
     "category": "comedor",
@@ -144,8 +144,8 @@
     "stock": 10
   },
   {
-    "id": "17",
-    "title": "Mesa Fija Contemporánea 85×145", 
+    "idx": "17",
+    "title": "Mesa Contemporánea 85×145", 
     "description": "Mesa estilo contemporáneo. Estructura maciza de madera paraíso.",
     "image": "https://i.ibb.co/QpDcdpn/17.jpg",
     "category": "comedor",
@@ -153,8 +153,8 @@
     "stock": 10    
   },
   {
-    "id": "18",
-    "title": "Mesa Fija Contemporánea 90×180", 
+    "idx": "18",
+    "title": "Mesa Contemporánea 90×180", 
     "description": "Mesa estilo contemporáneo. Estructura maciza de madera paraíso.",
     "image": "https://i.ibb.co/GMsbgzd/18.jpg",
     "category": "comedor",
@@ -162,7 +162,7 @@
     "stock": 10
   },
   {
-    "id": "19",
+    "idx": "19",
     "title": "Mesa Fija Vintage 90×160", 
     "description": "Mesa estilo vintage. Estructura maciza de madera paraíso Nogal.",
     "image": "https://i.ibb.co/TgZnKhj/19.jpg",
@@ -171,7 +171,7 @@
     "stock": 10
   },
   {
-    "id": "20",
+    "idx": "20",
     "title": "Mesa Fija Vintage 90×160", 
     "description": "Mesa estilo vintage. Estructura maciza de madera paraíso Roble.",
     "image": "https://i.ibb.co/yVkzNJb/20.jpg",
@@ -180,7 +180,7 @@
     "stock": 10    
   },
   {
-    "id": "21",
+    "idx": "21",
     "title": "Poltrona Reclinable", 
     "description": "Consultá telas y colores disponibles.",
     "image": "https://i.ibb.co/McHGH3D/21.jpg",
@@ -189,7 +189,7 @@
     "stock": 5
   },
   {
-    "id": "22",
+    "idx": "22",
     "title": "Sillón Cama", 
     "description": "Consultá telas y colores disponibles.",
     "image": "https://i.ibb.co/GpYnBDv/22.jpg",
@@ -198,7 +198,7 @@
     "stock": 6
   },
   {
-    "id": "23",
+    "idx": "23",
     "title": "Sillón Estilo Nórdico", 
     "description": "Sillón de un cuerpo Alpha. Gris Plomo",
     "image": "https://i.ibb.co/M96yjQg/23.jpg",
@@ -207,7 +207,7 @@
     "stock": 6
   },
   {
-    "id": "24",
+    "idx": "24",
     "title": "Sillón Estilo Nórdico", 
     "description": "Sillón de un cuerpo Alpha. Lino",
     "image": "https://i.ibb.co/Bcsh55C/24.jpg",
@@ -216,7 +216,7 @@
     "stock": 5
   },
   {
-    "id": "25",
+    "idx": "25",
     "title": "Sillón Estilo Vintage", 
     "description": "Sillón de un cuerpo Alpha. Lino",
     "image": "https://i.ibb.co/FxXn7Zx/25.jpg",
@@ -225,8 +225,8 @@
     "stock": 5
   },
   {
-    "id": "26",
-    "title": "Sillón Oficina Aluminio Blanco", 
+    "idx": "26",
+    "title": "Sillón Oficina Aluminio", 
     "description": "Sillón Oficina Aluminio con Ruedas. Cuero Ecologico. Respaldo Alto. Medidas: 0.50 x 0.50 x 1.03 cm. Altura Máxima 1.13 cm",
     "image": "https://i.ibb.co/y4Pgyhk/26.jpg",
     "category": "living",
@@ -234,8 +234,8 @@
     "stock": 20
   },
   {
-    "id": "27",
-    "title": "Sillón Oficina Aluminio Negro", 
+    "idx": "27",
+    "title": "Sillón Oficina Aluminio", 
     "description": "Sillón Oficina Aluminio con Ruedas. Cuero Ecologico. Respaldo Alto. Medidas: 0.50 x 0.50 x 1.03 cm. Altura Máxima 1.13 cm",
     "image": "https://i.ibb.co/C9jXNSG/27.jpg",
     "category": "living",
@@ -243,8 +243,8 @@
     "stock": 20
   },
   {
-    "id": "28",
-    "title": "Sillón Oficina Aluminio Bajo Negro", 
+    "idx": "28",
+    "title": "Sillón Oficina Aluminio Bajo", 
     "description": "Sillón Oficina Aluminio con Ruedas. Respaldo Bajo. Medidas: 0.50 x 0.50 x 0.83 cm. Altura Máxima 0.93 cm.",
     "image": "https://i.ibb.co/QmvBFHj/28.jpg",
     "category": "living",
@@ -252,8 +252,8 @@
     "stock": 20
   },
   {
-    "id": "29",
-    "title": "Sofá 1.80 Asiento y Respaldo Móvil", 
+    "idx": "29",
+    "title": "Sofá 1.80 Respaldo Móvil", 
     "description": "Sofá de dos cuerpos. Cuenta con la particularidad de contar con asientos extensibles para descansar cómodamente las piernas y apoya cabezas reclinables de 3 puntos para encontrar la posición justa para una comodidad extrema.",
     "image": "https://i.ibb.co/JBWhDZv/29.jpg",
     "category": "living",
@@ -261,26 +261,26 @@
     "stock": 3
   },
   {
-    "id": "30",
-    "title": "Sofá 1.80 Con Butacas y Cargador USB", 
-    "description": "Este sofá de 2 cuerpos, tiene la particularidad de contar con los asientos extensibles y, los apoya cabezas reclinables con varios puntos, que te ayudará a encontrar la posición justa para un confort único.",
+    "idx": "30",
+    "title": "Sofá 1.80 Con Butacas", 
+    "description": "Este sofá de 2 cuerpos, tiene la particularidad de contar con los asientos extensibles y, los apoya cabezas reclinables con varios puntos, que te ayudará a encontrar la posición justa para un confort único. Entrada USB",
     "image": "https://i.ibb.co/1dNqPLW/30.jpg",
     "category": "living",
     "precio": 1916000,
     "stock": 2
   },
   {
-    "id": "31",
-    "title": "Sofá 2.10 Modular Con Butacas y Cargador USB", 
-    "description": "Este sofá de 3 cuerpos, tiene la particularidad de contar con los asientos extensibles y, los apoya cabezas reclinables con varios puntos, que te ayudará a encontrar la posición justa para un confort único.",
+    "idx": "31",
+    "title": "Sofá Modular 2.10 Con Butacas", 
+    "description": "Este sofá de 3 cuerpos, tiene la particularidad de contar con los asientos extensibles y, los apoya cabezas reclinables con varios puntos, que te ayudará a encontrar la posición justa para un confort único. Entrada USB",
     "image": "https://i.ibb.co/Q9JnS3d/31.jpg",
     "category": "living",
-    "precio": 206400,
+    "precio": 2064000,
     "stock": 10
   },
   {
-    "id": "32",
-    "title": "Sofá 2.10 Con Carricama Brazo Curvo", 
+    "idx": "32",
+    "title": "Sofá 2.10 Con Carricama Curvo", 
     "description": "Sofá con brazos curvos. Carricama metálico elevable para colchón de 80x190x14cm de altura.",
     "image": "https://i.ibb.co/zxYGd3j/32.jpg",
     "category": "living",
@@ -288,7 +288,7 @@
     "stock": 6
   },
   {
-    "id": "33",
+    "idx": "33",
     "title": "Sofá 2.20 Con Carricama", 
     "description": "Un nuevo concepto en sillón con carro cama auxiliar, versátil, para todo tipo de estilos. Sus líneas rectas y medidas internas garantizan un máximo confort, con la funcionalidad de 2 camas de 190×80 cm o 1 cama de 190×160 cm. Puede ser utilizada como diaria, ya que la base superior es de alta densidad con manta soft. Carricama metálico elevable con colchón de 80x190x13cm de altura incluido.",
     "image": "https://i.ibb.co/ZKRC0bx/33.jpg",
@@ -297,7 +297,7 @@
     "stock": 5
   },
   {
-    "id": "34",
+    "idx": "34",
     "title": "Sofá Alba 1.80", 
     "description": "Sofá de 3 cuerpos Alpha Lino",
     "image": "https://i.ibb.co/2d07Z3s/34.jpg",
@@ -306,7 +306,7 @@
     "stock": 10
   },
   {
-    "id": "35",
+    "idx": "35",
     "title": "Sofá Cama Leo", 
     "description": "Sofá cama con apoya brazo de 3 cuerpos.",
     "image": "https://i.ibb.co/zV4GqpW/35.jpg",
@@ -315,7 +315,7 @@
     "stock": 8
   },
   {
-    "id": "36",
+    "idx": "36",
     "title": "Sofá Confortable 1.80", 
     "description": "Sofá de 3 cuerpos Alpha Habano.",
     "image": "https://i.ibb.co/2NWL1Wy/36.jpg",
@@ -324,7 +324,7 @@
     "stock": 8
   },
   {
-    "id": "37",
+    "idx": "37",
     "title": "Sofá Lisboa 1.70", 
     "description": "Sofá de dos cuerpos. Cuenta con estructura reforzada de madera maciza. Patas metálicas y la mejor calidad en tapicería, con costuras dobles reforzadas de gran resistencia.",
     "image": "https://i.ibb.co/Cw50LJK/37.jpg",
@@ -333,7 +333,7 @@
     "stock": 5
   },
   {
-    "id": "38",
+    "idx": "38",
     "title": "Sofá Lisboa 2.00", 
     "description": "Sofá de dos cuerpos. Cuenta con estructura reforzada de madera maciza. Patas metálicas y la mejor calidad en tapicería, con costuras dobles reforzadas de gran resistencia.",
     "image": "https://i.ibb.co/x2KZmbW/38.jpg",
@@ -342,7 +342,7 @@
     "stock": 5
   },
   {
-    "id": "39",
+    "idx": "39",
     "title": "Sofá Milano", 
     "description": "Sofá de 2 cuerpos de 85 × 160 × 70 cm Alpha Habano.",
     "image": "https://i.ibb.co/kBLF9Cv/39.jpg",
@@ -351,7 +351,7 @@
     "stock": 9
   },
   {
-    "id": "40",
+    "idx": "40",
     "title": "Sofá Milano", 
     "description": "Sofá de 2 cuerpos de 85 × 160 × 70 cm Alpha Sepia.",
     "image": "https://i.ibb.co/7KR4XH8/40.jpg",
@@ -360,7 +360,7 @@
     "stock": 9
   },
   {
-    "id": "41",
+    "idx": "41",
     "title": "Sofá Milano", 
     "description": "Sofá de 2 cuerpos de 85 × 2000 × 70 cm  Alpha Gris Plomo.",
     "image": "https://i.ibb.co/7pjqtd6/41.jpg",
@@ -369,7 +369,7 @@
     "stock": 10
   },
   {
-    "id": "42",
+    "idx": "42",
     "title": "Sofá Super Soft 1.95", 
     "description": "Sofá de 3 cuerpos de pana Gris Claro",
     "image": "https://i.ibb.co/9260P95/42.jpg",
@@ -378,7 +378,7 @@
     "stock": 6
   },
   {
-    "id": "43",
+    "idx": "43",
     "title": "Sofá Super Soft 2.40", 
     "description": "Sofá de 4 cuerpos de pana Marron Claro",
     "image": "https://i.ibb.co/3yr8tP2/43.jpg",
@@ -387,7 +387,7 @@
     "stock": 6
   },
   {
-    "id": "44",
+    "idx": "44",
     "title": "Sofá Vintage", 
     "description": "Sofá de 3 cuerpos Alpha Gris Plomo",
     "image": "https://i.ibb.co/VxpwcHN/44.jpg",
@@ -396,7 +396,7 @@
     "stock": 10
   },
   {
-    "id": "45",
+    "idx": "45",
     "title": "Sofá Vintage", 
     "description": "Sofá de 3 cuerpos Alpha Sepia",
     "image": "https://i.ibb.co/cQ2FkJ3/45.jpg",
@@ -405,7 +405,7 @@
     "stock": 10
   },
   {
-    "id": "46",
+    "idx": "46",
     "title": "Sofá Camila Chaise Longue 2.00", 
     "description": "Sofá esquiero de 3 cuerpos Alpha Peltre",
     "image": "https://i.ibb.co/VQfV2Sg/46.jpg",
@@ -414,7 +414,7 @@
     "stock": 7
   },
   {
-    "id": "47",
+    "idx": "47",
     "title": "Sofá Camila Chaise Longue 2.00", 
     "description": "Sofá esquiero de 3 cuerpos Alpha Rojo",
     "image": "https://i.ibb.co/KVmCqxm/47.jpg",
@@ -423,7 +423,7 @@
     "stock": 5
   },
   {
-    "id": "48",
+    "idx": "48",
     "title": "Sofá Camila Chaise Longue 2.00", 
     "description": "Sofá esquiero de 3 cuerpos Alpha Beige Oscuro",
     "image": "https://i.ibb.co/pXHMXC0/48.jpg",
@@ -432,8 +432,8 @@
     "stock": 5
   },
   {
-    "id": "49",
-    "title": "Sofá Rinconero Asiento y Respaldo Móvil", 
+    "idx": "49",
+    "title": "Sofá Rinconero Móvil", 
     "description": "Asientos moviles con profundiad regulable y apoya cabezas pivotantes. Confeccionado en madera maciza, asiento de placa soft y almohadones de vellón siliconado",
     "image": "https://i.ibb.co/ZxTgRcJ/49.jpg",
     "category": "living",
@@ -441,7 +441,7 @@
     "stock": 3
   },
   {
-    "id": "50",
+    "idx": "50",
     "title": "Sofá Rinconero Urban", 
     "description": "Sofá de 3 cuerpos con chaise longue móvil. Alpha Marron.",
     "image": "https://i.ibb.co/ZmNy3V8/50.jpg",
@@ -450,7 +450,7 @@
     "stock": 10
   },
   {
-    "id": "51",
+    "idx": "51",
     "title": "Sofá Rinconero Cleo 2.30", 
     "description": "Sofá esquinero de 3 cuerpos. Alpha Magenta.",
     "image": "https://i.ibb.co/prKXM7h/51.jpg",
@@ -459,7 +459,7 @@
     "stock": 10
   },
   {
-    "id": "52",
+    "idx": "52",
     "title": "Colchón de Futón", 
     "description": "Colchón para Futón de cuero ecologivo de 3 Cuerpos. Medidas: 1,30 x 1,90 x 0,20.",
     "image": "https://i.ibb.co/N91Gpkq/52.jpg",
@@ -468,7 +468,7 @@
     "stock": 20
   },
   {
-    "id": "53",
+    "idx": "53",
     "title": "Estructura de Futón", 
     "description": "Futón de 3 cuerpos de Pino Patinado (SIN COLCHON). Largo Interior: 1.90 cm.",
     "image": "https://i.ibb.co/r78mLCH/53.jpg",
@@ -477,7 +477,7 @@
     "stock": 20
   },
   {
-    "id": "54",
+    "idx": "54",
     "title": "Puff Ecocuero Azul", 
     "description": "Puff Tamaño Estándar. Relleno de Copos de Tergopol",
     "image": "https://i.ibb.co/wcrnB2n/54.jpg",
@@ -486,7 +486,7 @@
     "stock": 15
   },
   {
-    "id": "55",
+    "idx": "55",
     "title": "Puff Ecocuero Esmeralda", 
     "description": "Puff Tamaño Estándar. Relleno de Copos de Tergopol",
     "image": "https://i.ibb.co/tPKMYSL/55.jpg",
@@ -495,7 +495,7 @@
     "stock": 15
   },
   {
-    "id": "56",
+    "idx": "56",
     "title": "Puff XL Pana Tiffany", 
     "description": "Sillón de un cuerpo Alpha. Lino",
     "image": "https://i.ibb.co/NLVDb0T/56.jpg",
@@ -504,7 +504,7 @@
     "stock": 10
   },
   {
-    "id": "57",
+    "idx": "57",
     "title": "Cama Nido Doble", 
     "description": "Combinación de madera maciza en su estructura con placas de diseño en melamina. Cama Alta: 2.12x 0.90×1.05. Cama Baja: 2.02×0.90×0.63",
     "image": "https://i.ibb.co/hcbMh3L/57.jpg",
@@ -513,7 +513,7 @@
     "stock": 6
   },
   {
-    "id": "58",
+    "idx": "58",
     "title": "Cucheta Esquinera", 
     "description": "Combinación de madera maciza en su estructura con placas de diseño en melamina. Medidas cama alta: 2.12×0.90×1.39 – Medidas cama baja: 2.02×0.90×0.66",
     "image": "https://i.ibb.co/nRmF52s/58.jpg",
@@ -522,7 +522,7 @@
     "stock": 4
   },
   {
-    "id": "59",
+    "idx": "59",
     "title": "Cucheta Fija", 
     "description": "Cucheta con estructura de pino macizo tipo Elliotis e incrustaciones de placa de melamina. Calidez de madera lustrada más el diseño y texturas de la placa de melamina. Blanco/Helsinki",
     "image": "https://i.ibb.co/0JqkmF6/59.jpg",
@@ -531,7 +531,7 @@
     "stock": 4
   },
   {
-    "id": "60",
+    "idx": "60",
     "title": "Cucheta Fija", 
     "description": "Cucheta con estructura de pino macizo tipo Elliotis e incrustaciones de placa de melamina. Calidez de madera lustrada más el diseño y texturas de la placa de melamina. Blanco/Blanco",
     "image": "https://i.ibb.co/ZTnZJk6/60.jpg",
@@ -540,7 +540,7 @@
     "stock": 10
   },
   {
-    "id": "61",
+    "idx": "61",
     "title": "Cucheta Fija", 
     "description": "Cucheta con estructura de pino macizo tipo Elliotis e incrustaciones de placa de melamina. Calidez de madera lustrada más el diseño y texturas de la placa de melamina. Roble/Blanco",
     "image": "https://i.ibb.co/zbM76Fw/61.jpg",
@@ -549,7 +549,7 @@
     "stock": 4
   },
   {
-    "id": "62",
+    "idx": "62",
     "title": "Cuna Funcional", 
     "description": "Convertible en cama de 1 plaza. Mesa de Luz y módulo estante desmontables. Largueros y barandas de madera maciza. Melamina 18mm, sistema de ensamble Minifix. Apto para colchón de 1.40×0.80.",
     "image": "https://i.ibb.co/2cMCT7N/62.jpg",
@@ -558,7 +558,7 @@
     "stock": 3
   },
   {
-    "id": "63",
+    "idx": "63",
     "title": "Diván Cama", 
     "description": "Divan cama Roble de Pino Exportación (no incluye carricama)",
     "image": "https://i.ibb.co/hHPBx4w/63.jpg",
@@ -567,7 +567,7 @@
     "stock": 4
   },
   {
-    "id": "64",
+    "idx": "64",
     "title": "Mesa de Luz ", 
     "description": "Mesa de Luz con cajón y puerta. Melamina 18mm, cantos PVC, herrajes de aluminio, bisagras reforzadas. Sistema de ensamble Minifix.",
     "image": "https://i.ibb.co/6y4HFdT/64.jpg",
@@ -576,7 +576,7 @@
     "stock": 10
   },
   {
-    "id": "65",
+    "idx": "65",
     "title": "Silla Plegable Exterior", 
     "description": "Plegable. Madera maciza Eucalyptus Grandis . Terminación con impregnante. Apto para uso en exteriores.",
     "image": "https://i.ibb.co/PWxDqyX/65.jpg",
@@ -585,8 +585,8 @@
     "stock": 25
   },
   {
-    "id": "66",
-    "title": "Silla Plegable Exterior – Babilonia", 
+    "idx": "66",
+    "title": "Silla Plegable – Babilonia", 
     "description": "Plegable. Madera maciza Eucalyptus Grandis . Terminación con impregnante. Apto para uso en exteriores.",
     "image": "https://i.ibb.co/WBTqrwf/66.jpg",
     "category": "exterior",
@@ -594,7 +594,7 @@
     "stock": 10
   },
   {
-    "id": "67",
+    "idx": "67",
     "title": "Sillón Director Exterior", 
     "description": "Plegable. Madera maciza. Terminación con impregnante. Apto para uso en exteriores. Lona en color natural",
     "image": "https://i.ibb.co/HBxbrVG/67.jpg",
@@ -603,7 +603,7 @@
     "stock": 30
   },
   {
-    "id": "68",
+    "idx": "68",
     "title": "Mesa Plegable Exterior", 
     "description": "Mesa Plegable 75×75. Madera maciza. Terminación con impregnante. Apto para uso en exteriores. Capacidad para 4 personas.",
     "image": "https://i.ibb.co/tpF6n1m/68.jpg",
@@ -612,8 +612,8 @@
     "stock": 10
   },
   {
-    "id": "69",
-    "title": "Mesa Plegable Exterior – Babilonia", 
+    "idx": "69",
+    "title": "Mesa Plegable – Babilonia", 
     "description": "Mesa Plegable 80×80. Madera maciza. Terminación con impregnante. Apto para uso en exteriores. Capacidad para 4 personas.",
     "image": "https://i.ibb.co/T0Rhr27/69.jpg",
     "category": "exterior",
@@ -621,8 +621,8 @@
     "stock": 10
   },
   {
-    "id": "70",
-    "title": "Reposera Lona Plegable Exterior", 
+    "idx": "70",
+    "title": "Reposera Lona Exterior", 
     "description": "Plegable. Madera maciza. Terminación con impregnante. Apto para uso en exteriores. Lona en color natural.",
     "image": "https://i.ibb.co/cF8bh8d/70.jpg",
     "category": "exterior",
@@ -630,8 +630,8 @@
     "stock": 20
   },
   {
-    "id": "71",
-    "title": "Reposera Lona Plegable Exterior – Babilonia", 
+    "idx": "71",
+    "title": "Reposera Lona – Babilonia", 
     "description": "Plegable. Madera maciza. Terminación con impregnante. Apto para uso en exteriores. Lona en color gris o blanco",
     "image": "https://i.ibb.co/ggWKVCz/71.jpg",
     "category": "exterior",

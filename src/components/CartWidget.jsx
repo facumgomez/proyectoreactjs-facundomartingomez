@@ -1,12 +1,21 @@
-import cart from "../assets/cart.png";
+import { useContext } from "react";
+import { CartContext } from "./CartContext";
+import { Link } from "react-router-dom";
 
 const CartWidget = () => {
-    return(
-        <button className="cartWidget" style={{ display: "flex", alignItems: "center", backgroundColor: "transparent", border: "none"}}>
-            <img src={cart} alt="cart" />
-            <span style={{ fontSize: "25px", marginLeft: "5px", backgroundColor: "#F0F4F2", borderRadius: "15px"}}>0</span>
-        </button>
-    )
+  const {totalQuantityProducts} = useContext(CartContext);
+  const cartWidgetStyle = {
+    fontSize: "25px", color: "#F0F4F2",  border:"5px"};
+  
+  return(
+    <Link to={"/cart"}>
+      <button type="button" className="btn btn"style={cartWidgetStyle} >
+        <i className="bi bi-bag">
+          <span>{totalQuantityProducts ()}</span>
+        </i>
+      </button>
+    </Link>
+  );
 }
 
 export default CartWidget;

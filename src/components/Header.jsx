@@ -3,8 +3,11 @@ import NavBar from "./NavBar";
 import CartWidget from "./CartWidget";
 
 const Header = () => {
+  const headerStyle = {
+    backgroundColor: "#FF3131"};
+  
   return(
-    <div className="container-fluid" style={{backgroundColor: "#FF3131"}}>
+    <div className="container-fluid" style={headerStyle}>
       <div className="row" >
         <div className="col-md-4">
           <LogoOp1 />
@@ -17,7 +20,7 @@ const Header = () => {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
 export default Header;
