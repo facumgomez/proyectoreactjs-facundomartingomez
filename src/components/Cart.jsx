@@ -14,7 +14,7 @@ const Cart = () => {
           <div className="row">
             <div className="col text-center alert" style={{border: "2px solid #FF3131", padding: "10px", margin: "10px"}}>
               <img src={Logo2} alt="Logo de Home Deco" />
-              <p className="display-5">El carrito de compras está vacío.</p>
+              <p className="display-5">El carrito está vacío.</p>
               <div>
                 <Link to={"/"} className="btn btn" style={cartStyle}>Volver al Incio</Link>
               </div>
